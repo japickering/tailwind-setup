@@ -1,6 +1,6 @@
 # Tailwind-setup
 
-Getting started with Tailwind CSS
+Getting started with Tailwinds CSS
 
 ## Available Scripts
 
