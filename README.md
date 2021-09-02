@@ -1,5 +1,5 @@
 # Getting started with Tailwind CSS
-Using this starter kit you can get up and running fast with Tailwind CSS and React JS.
+Using this starter kit you can get up and running fast with [Tailwind CSS](https://tailwindcss.com/docs/) and React JS.
 Tailwind CSS 2.0 uses npm packages: Purge CSS which strips out un-used css for optimising file size and Craco to configure PostCSS.
 
 ## Setup Tailwind CSS and React JS
